@@ -2599,3 +2599,13 @@ http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813b2db47101
 ---
 
 以上信息的整理和归纳是由杨凯昕、贾子钰、蔡晞阳共同完成的。
+
+---
+
+## 更多论文列表
+
+- [Physiological Signal Classification Papers](https://github.com/ziyujia/Physiological-Signal-Classification-Papers)
+- [Sleep Stages Classification Papers](https://github.com/ziyujia/Sleep-Stages-Classification-Papers)
+- [Motor Imagery Papers](https://github.com/ziyujia/Motor-Imagery-Papers)
+- [Emotion Recognition Papers](https://github.com/ziyujia/Emotion-Recognition-Papers)
+
