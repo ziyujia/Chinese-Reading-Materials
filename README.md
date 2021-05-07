@@ -294,6 +294,8 @@ yubofan@buaa.edu.cn
 
 https://bme.buaa.edu.cn/teacherInfo.aspx?catID=7&subcatID=35&curID=246
 
+#### 个人简介
+
 中国生物医学工程学会第七、第八届理事长，北航医学科学与工程学院院长。生于1965年，1987年毕业于北京大学力学系获学士学位，1992年毕业于成都科技大学获博士学位。1999至2006年间七次赴香港理工大学，2003、04、05年赴加拿大、日本等国访问或合作研究。现任世界生物力学理事会理事，全国生物力学专业委员会主任，中国生物医学工程学会理事长，中国力学学会理事，教育部“生物力学与组织工程”重点实验室学术委员会副主任，中国生物医学工程学会组织工程分会委员，教育部生物医学工程专业教学指导委员会委员，亚太生物力学理事会理事。
 
 
@@ -326,7 +328,7 @@ https://bme.buaa.edu.cn/teacherInfo.aspx?catID=7&subcatID=35&curID=246
 
 ---
 
-### 顾孙煜
+### 孙煜
 
 #### 单位
 
@@ -1858,7 +1860,7 @@ https://dkxy.xust.edu.cn/info/1143/2076.htm
 
 #### 个人主页
 
-http://web.ysu.edu.cn/WD1/zh_CN/index.htm
+https://scholar.google.com.hk/citations?hl=zh-CN&user=42XXeX8AAAAJ
 
 #### 个人简介
 
@@ -1942,9 +1944,6 @@ http://cs.ahu.edu.cn/2018/0322/c11201a163141/page.htm
 
 帕金森病；特发性震；肌张力障碍；舞蹈症
 
-#### 个人主页
-
-http://www.chhospital.com.cn/html/doctor/index/645.html
 
 #### 个人简介
 
@@ -2112,7 +2111,7 @@ pingx@ysu.edu.cn
 
 #### 个人主页
 
-http://web.ysu.edu.cn/XP/zh_CN/index.htm
+https://scholar.google.com.hk/citations?hl=zh-CN&user=-cGT7lYAAAAJ
 
 #### 个人简介
 
@@ -2358,7 +2357,8 @@ zmmri@163.com
 
 #### 个人主页
 
-http://yz.kaoyan.com/xjtu/daoshi/24/418798/
+http://www.dyyy.xjtu.edu.cn/jypt/jyzn1/yyks/yjks/yxyxk/z_m.htm
+
 
 #### 个人简介
 
@@ -2492,7 +2492,7 @@ http://bme.szu.edu.cn/20161/0909/58.html
 
 #### 单位
 
-西南交通大学
+西安交通大学
 
 #### 职称/职务
 
@@ -2574,7 +2574,7 @@ https://mele.sdu.edu.cn/info/1024/1093.htm
 
 ---
 
-### 周宗谭
+### 周宗潭
 
 #### 单位
 
@@ -2588,9 +2588,6 @@ https://mele.sdu.edu.cn/info/1024/1093.htm
 
 模式识别；计算机视觉；脑机接口
 
-#### 个人主页
-
-http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813b2db471013b3278e6bf0b4e
 
 #### 个人简介
 
