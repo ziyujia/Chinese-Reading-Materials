@@ -1,4 +1,4 @@
-若公式无法正常显示，推荐使用 [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima) 插件，或直接阅读 [HTML版](https://ziyujia.github.io/CRM/Materials/SalientSleepNet/SalientSleepNet.html) / [PDF版](SalientSleepNet.pdf)
+若公式无法正常显示，推荐使用 [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima) 插件，或直接阅读 [HTML版](https://ziyujia.github.io/Chinese-Reading-Materials/Materials/SalientSleepNet/SalientSleepNet.html) / [PDF版](SalientSleepNet.pdf)
 
 ---
 
